@@ -1,0 +1,11 @@
+/content/models/
+*.pkl
+*.npy
+*.zip
+*.h5
+.env
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+*.log
